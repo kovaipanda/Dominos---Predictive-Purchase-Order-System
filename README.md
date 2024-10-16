@@ -16,43 +16,43 @@ Project Structure
 ├── 📁 Data
 
 │   ├── Pizza_Sale.xlsx                 
-# Raw sales data
+ Raw sales data
 
 │   ├── Pizza_Sale_cleaned.xlsx         
-# Cleaned sales data after processing
+ Cleaned sales data after processing
 
 │   ├── Pizza_Sale_fimp.xlsx          
-# Data after feature engineering
+ Data after feature engineering
 
 │   ├── Pizza_Sale_imp_fea.xlsx        
-# Data after interpolation and outlier removal
+ Data after interpolation and outlier removal
 
 │   ├── Ingredients_Forecast.xlsx       
-# Predicted ingredient requirements
+ Predicted ingredient requirements
 
 ├── data_cleaning.py                    
-# Script for cleaning the sales data
+ Script for cleaning the sales data
 
 ├── sales_prediction.py                 
-# Script for predicting sales
+ Script for predicting sales
 
 ├── fimp.py                             
-# Script for feature engineering
+ Script for feature engineering
 
 ├── imp_fea.py                           
-# Script for performing feature engineering and outlier removal
+ Script for performing feature engineering and outlier removal
 
 ├── por.py                             
-# Script for prediction using Prophet and Random Forest
+ Script for prediction using Prophet and Random Forest
 
 ├── pred_prop.py                       
-# Script for extracting and formatting results from predictions
+ Script for extracting and formatting results from predictions
 
 ├── ing.py                             
-# Script for predicting ingredient requirements based on sales forecast
+ Script for predicting ingredient requirements based on sales forecast
 
 └── ingredients_list_predicted.py       
-# Script for predicting the ingredients list
+ Script for predicting the ingredients list
 
 Installation
 
