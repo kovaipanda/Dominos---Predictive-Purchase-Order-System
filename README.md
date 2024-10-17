@@ -108,6 +108,19 @@ Usage
 
 python data_cleaning.py
 
+![numerical_column_outliers](https://github.com/user-attachments/assets/e9a9824c-4d67-4ca4-9a5d-a9bdeaa54198)
+
+![Sales_treand_over_time](https://github.com/user-attachments/assets/ea51f00d-fd79-422a-8d27-267c467ddee6)
+
+![monthly_sales_trend](https://github.com/user-attachments/assets/fed43a28-c610-4d78-8670-c532b1a89ef0)
+
+![avg_sales_per_day_of_the_week](https://github.com/user-attachments/assets/42e3bc1e-0b22-453d-9c79-1890c5e6fa5e)
+
+![total_sales_by_piza_categogy](https://github.com/user-attachments/assets/f74d3b9f-037b-46b3-a3e6-dee08bccfb84)
+
+![correlation heat map of numerical features](https://github.com/user-attachments/assets/6a0baea0-c4cf-484a-9315-2ecac516b892)
+
+
 sales_prediction.py
 
 This script prepares the sales dataset for predictive modeling. 
